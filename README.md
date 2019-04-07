@@ -1,8 +1,8 @@
-# ML-supportVectorMachine
+# ML-K_means_clustering
 Matlab / Octave program to implement a K-mean clustering algorithm
 
 demo_clustering.m - script to run a demo of a clustering algorithm on a simple data set
-image_compression.m - script to compress a demo image using a K-mean clustering algorithm
+image_compression.m - script to compress a demo image using a K-mean clustering algorithmdemo_
 
 demo_data.m - demo data for demo_clustering.m
 bird small.png - Example Image
